@@ -1,3 +1,12 @@
 print("Mieru Ukrainai!")
+
 print("Ben")
-print("LLLLL")
+
+
+
+print("MIERU, tikai MIERU - teica Karlsons")
+
+print('programmējam spēli')
+
+
+
